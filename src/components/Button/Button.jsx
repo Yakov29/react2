@@ -3,7 +3,7 @@ import React from 'react';
 
 const Button = ({ onClick }) => {
   return (
-    <button className="custom-button" onClick={onClick}>
+    <button className="button">
       Натисніть мене
     </button>
   );
